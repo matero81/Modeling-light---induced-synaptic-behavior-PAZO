@@ -1,6 +1,10 @@
 # Modeling Light-Induced Synaptic Behavior (PAZO)
 
-This repository contains Python codes and Jupyter Notebooks designed to model and fit the light-induced synaptic response of PAZO. The models utilize rate balance equations (single-rate and double-rate models) to fit experimental synaptic intensity curves under different optical stimulation profiles.
+This repository contains Python codes and Jupyter Notebooks designed to fit the light-induced synaptic response of PAZO . The models utilize rate balance equations (double-rate models) to fit experimental synaptic intensity curves under different optical stimulation profiles.
+
+This code is part of the following scientific article:
+> M. Rosero-Realpe , F. Ferrarese Lupi, G. Milano, and A. Angelini, “ Modeling Light-Induced Synaptic Behavior and Visual Memory of Azopolymeric Compounds.” Advanced Optical Materials (2026): e71444.
+> DOI: [https://doi.org/10.1002/adom.71444](https://doi.org/10.1002/adom.71444)
 
 ---
 
